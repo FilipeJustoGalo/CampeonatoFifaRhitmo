@@ -34,3 +34,8 @@ C:\Users\user\Desktop\Meus Programas em C#\CampeonatoFifaRhitmo\CampeonatoFifaRh
 C:\Users\user\Desktop\Meus Programas em C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.pdb
 C:\Users\user\Desktop\Meus Programas em C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.genruntimeconfig.cache
 C:\Users\user\Desktop\Meus Programas em C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.csproj.CopyComplete
+C:\Users\user\Desktop\Meus Programas em C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Players\Create.cshtml.g.cs
+C:\Users\user\Desktop\Meus Programas em C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Players\Delete.cshtml.g.cs
+C:\Users\user\Desktop\Meus Programas em C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Players\Details.cshtml.g.cs
+C:\Users\user\Desktop\Meus Programas em C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Players\Edit.cshtml.g.cs
+C:\Users\user\Desktop\Meus Programas em C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Players\Index.cshtml.g.cs

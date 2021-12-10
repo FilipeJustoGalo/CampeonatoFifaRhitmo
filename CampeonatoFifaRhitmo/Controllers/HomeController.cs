@@ -17,7 +17,8 @@ namespace CampeonatoFifaRhitmo.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application description page.";
+            ViewData["Message"] = "Bem Vindo ao torneiro!";
+            ViewData["Galo"] = "Meu galo Querido!";
 
             return View();
         }

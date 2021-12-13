@@ -39,3 +39,44 @@ C:\Users\user\Desktop\Meus Programas em C#\CampeonatoFifaRhitmo\CampeonatoFifaRh
 C:\Users\user\Desktop\Meus Programas em C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Players\Details.cshtml.g.cs
 C:\Users\user\Desktop\Meus Programas em C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Players\Edit.cshtml.g.cs
 C:\Users\user\Desktop\Meus Programas em C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Players\Index.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.dll
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.pdb
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\bin\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.deps.json
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\bin\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.runtimeconfig.json
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\bin\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.runtimeconfig.dev.json
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\bin\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.dll
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\bin\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.pdb
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\bin\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.Views.dll
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\bin\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.Views.pdb
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.csproj.AssemblyReference.cache
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.AssemblyInfoInputs.cache
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.AssemblyInfo.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.csproj.CoreCompileInputs.cache
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.RazorAssemblyInfo.cache
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.RazorAssemblyInfo.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.TagHelpers.input.cache
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.TagHelpers.output.cache
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.RazorCoreGenerate.cache
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Players\Create.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Players\Delete.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Players\Details.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Players\Edit.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Players\Index.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.RazorTargetAssemblyInfo.cache
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.RazorTargetAssemblyInfo.cs
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.Views.pdb
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.genruntimeconfig.cache
+C:\Users\FilipeJusto\Desktop\MeusProgramas C#\CampeonatoFifaRhitmo\CampeonatoFifaRhitmo\obj\Debug\netcoreapp2.1\CampeonatoFifaRhitmo.csproj.CopyComplete

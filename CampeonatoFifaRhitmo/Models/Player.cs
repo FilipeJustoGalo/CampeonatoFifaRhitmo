@@ -11,5 +11,6 @@ namespace CampeonatoFifaRhitmo.Models
         public string Nome { get; set; }
         public string Time { get; set; }
         
+
     }
 }

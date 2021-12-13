@@ -12652,7 +12652,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Users\\FilipeJusto\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
@@ -12660,11 +12660,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\Meus Programas em C#\\CampeonatoFifaRhitmo\\CampeonatoFifaRhitmo\\CampeonatoFifaRhitmo.csproj",
+      "projectUniqueName": "C:\\Users\\FilipeJusto\\Desktop\\MeusProgramas C#\\CampeonatoFifaRhitmo\\CampeonatoFifaRhitmo\\CampeonatoFifaRhitmo.csproj",
       "projectName": "CampeonatoFifaRhitmo",
-      "projectPath": "C:\\Users\\user\\Desktop\\Meus Programas em C#\\CampeonatoFifaRhitmo\\CampeonatoFifaRhitmo\\CampeonatoFifaRhitmo.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\Meus Programas em C#\\CampeonatoFifaRhitmo\\CampeonatoFifaRhitmo\\obj\\",
+      "projectPath": "C:\\Users\\FilipeJusto\\Desktop\\MeusProgramas C#\\CampeonatoFifaRhitmo\\CampeonatoFifaRhitmo\\CampeonatoFifaRhitmo.csproj",
+      "packagesPath": "C:\\Users\\FilipeJusto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\FilipeJusto\\Desktop\\MeusProgramas C#\\CampeonatoFifaRhitmo\\CampeonatoFifaRhitmo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -12672,7 +12672,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\FilipeJusto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

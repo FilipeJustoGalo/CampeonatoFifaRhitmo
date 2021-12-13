@@ -15,6 +15,7 @@ namespace CampeonatoFifaRhitmo.Migrations
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
                     Nome = table.Column<string>(nullable: true),
                     Time = table.Column<string>(nullable: true)
+                    
                 },
                 constraints: table =>
                 {
